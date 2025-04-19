@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst enthusiastic about t
 - 🎓 **Education**: B.Tech in Electronics and Communication Engineering  
 - 💼 **Career Focus**: Data Analysis & Business Intelligence  
 - 🚀 **Current Goals**: Building strong projects in Power BI, SQL, and Python  
-- 📊 **Recent Internship**: Data Analyst at Cognifyz Technologies (Feb–Mar 2025)
+- 📊 **Recent Internship**: Power BI Intern at Cognifyz Technologies (Feb–Mar 2025)
 
 ---
 
